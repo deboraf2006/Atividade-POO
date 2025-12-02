@@ -1,0 +1,3 @@
+# 02.  Qual a diferença entre declarar um vetor com valor fixo e inicializá-lo com valores específicos?
+
+## R: Em um vetor com valores especificos vc determina  que numero vai ficar em determinada posição, ja em um vetor fixo não 
