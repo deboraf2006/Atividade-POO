@@ -1,0 +1,2 @@
+# 03. Explique o que significa índice e qual o intervalo válido para um vetor int notas[10];
+Indice é a posição de determinado elemento dentro de um vetor; o intervalo é de 0 9 , ja que a contagem se inicia com 0.
